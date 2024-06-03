@@ -4,7 +4,7 @@ Welcome to Information Care Nepal's privacy policy section. We value your privac
 
 ---
 
-For further information or if you have any questions, please contact our support team at [support@informationcarenepal.com](mailto:info@infocarenepal.com).
+For further information or if you have any questions, please contact our support team at [info@infocarenepal.com](mailto:info@infocarenepal.com).
 
 ## Applications
 
