@@ -1,4 +1,4 @@
-# Information Care Nepal - Privacy Policy
+# Information Care Pvt. Ltd. - Privacy Policy
 
 Welcome to Information Care Nepal's privacy policy section. We value your privacy and are committed to protecting your personal information. This page provies the information about the privacy policies of different applications developed by Information Care Nepal.
 
