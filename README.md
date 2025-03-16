@@ -8,4 +8,8 @@ For further information or if you have any questions, please contact our support
 
 ## Applications
 
+- [CRM](https://cliffbyte.github.io/privacy-policies/crm)
+- [HRMS](https://cliffbyte.github.io/privacy-policies/hrms)
+- [MY PALIKA](https://cliffbyte.github.io/privacy-policies/my-palika)
+- [MY PALIKA Account Deletion](https://cliffbyte.github.io/privacy-policies/my-palika-account-deletion)
 - [Sudurpaschim Province Research and Training Association](https://cliffbyte.github.io/privacy-policies/sprta-privacy-policy)
