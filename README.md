@@ -15,4 +15,5 @@ For further information or if you have any questions, please contact our support
 - [MY PALIKA Account Deletion](https://cliffbyte.github.io/privacy-policies/my-palika-account-deletion)
 - [Sudurpaschim Province Research and Training Association](https://cliffbyte.github.io/privacy-policies/sprta-privacy-policy)
 - [Product Tracking](https://cliffbyte.github.io/privacy-policies/product-tracking)
+- [Field Force](https://cliffbyte.github.io/privacy-policies/field-force)
 - [Election 360](https://cliffbyte.github.io/privacy-policies/election-360)
