@@ -49,6 +49,7 @@ While using Our Service, We may ask You to provide Us with certain personally id
 - Phone number
 - First name and last name
 - Age group and gender
+- Education level/qualification
 - Address, State, Province, ZIP/Postal code, City
 - Profile demographic information
 - Social media platform preferences
@@ -186,7 +187,5 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, You can contact us:
 
 **By email**: app.informationcare@gmail.com
-
-
 
 **Address**: Kathmandu, Nepal
