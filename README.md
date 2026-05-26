@@ -18,3 +18,4 @@ For further information or if you have any questions, please contact our support
 - [Field Force](https://cliffbyte.github.io/privacy-policies/field-force)
 - [Election 360](https://cliffbyte.github.io/privacy-policies/election-360)
 - [Syanko ](https://cliffbyte.github.io/privacy-policies/syanko)
+- [Service Delivery Dhangadi ](https://cliffbyte.github.io/privacy-policies/service-delivery-dhangadi)
