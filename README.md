@@ -21,3 +21,4 @@ For further information or if you have any questions, please contact our support
 - [Service Delivery Dhangadi ](https://cliffbyte.github.io/privacy-policies/service-delivery-dhangadi)
 - [Service Portal Dhan ](https://cliffbyte.github.io/privacy-policies/service-portal-dhangadhi)
 - [Service Portal ](https://cliffbyte.github.io/privacy-policies/service-portal)
+- [Data Portal Survey ](https://cliffbyte.github.io/privacy-policies/data-portal-survey)
